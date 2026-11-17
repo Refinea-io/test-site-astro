@@ -6,11 +6,13 @@ heroImage: "/blog-placeholder-1.png"
 tags: ["ai-visibility", "testing"]
 ---
 
-## Why this post exists
+## Why this test post exists
 
 This is sample post 1 of a test site. It is here so that the connector can learn the shape of the blog.
 
 ## What it contains
+
+**In short:** two sections, a list and a link.
 
 A couple of sections, a list and a link to [Astro](https://astro.build).
 
