@@ -12,6 +12,8 @@ This is sample post 2 of a test site. It is here so that the connector can learn
 
 ## What it contains
 
+**In short:** two sections, a list and a link.
+
 A couple of sections, a list and a link to [Astro](https://astro.build).
 
 - one
